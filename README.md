@@ -1,2 +1,1 @@
-# MusicGenreClassificationGUI
- MusicGenreClassificationGUI
+YouTube demo of the project: https://www.youtube.com/watch?v=kxJfwDP65Bs
